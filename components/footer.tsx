@@ -7,6 +7,9 @@ const Footer = () => {
                 <p>
              Derechos reservados | 2024 
                </p>
+               <p>
+                Autor. Estefanía Cabal Aguado | TI02SM22
+               </p>
            </div>
        </footer>     
     )
